@@ -1,1 +1,6 @@
 
+/venv
+static/CSS/all.min.css
+static/CSS/bootstrap.bundle.min.js
+static/CSS/bootstrap.min.css
+build.sh
